@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggmeta"]
+	path = ggmeta
+	url = https://github.com/drhrf/ggmeta
 [submodule "unexcel"]
 	path = unexcel
 	url = https://github.com/drhrf/unexcel
